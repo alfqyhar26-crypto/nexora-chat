@@ -1,0 +1,54 @@
+# NEXORA CHAT - Complete Build Guide
+
+## Repository
+https://github.com/alfqyhar26-crypto/nexora-chat
+
+
+## STEP 1: Check Build Status
+
+1. Open this URL in browser:
+   https://github.com/alfqyhar26-crypto/nexora-chat/actions
+
+2. Wait for Status: GREEN CHECKMARK (success)
+
+3. If not ready yet, wait 10-15 minutes
+
+
+## STEP 2: Download APK
+
+1. Click on first workflow run (Build Android APK & AAB)
+
+2. Scroll down to "Artifacts" section
+
+3. Click on "nexora-debug-apk"
+
+4. File will download automatically
+
+
+## STEP 3: Install on Phone
+
+1. Transfer APK.zip to phone
+
+2. Extract ZIP file
+
+3. Install APK
+
+4. Allow "Install from unknown sources"
+
+
+## Features Ready
+
+- Splash Screen
+- Onboarding
+- Email Sign Up / Sign In
+- Dark Premium Theme
+- Supabase Integration
+
+
+## NEXT STEPS (Optional)
+
+- Chat Module
+- Voice/Video Calls
+- Stories
+- Social Feed
+- AI Assistant
