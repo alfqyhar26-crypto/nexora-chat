@@ -1,0 +1,14 @@
+﻿<?xml version=""1.0"" encoding=""utf-8""?>
+<resources>
+    <!-- NEXORA Dark Premium Theme -->
+    <style name=""Theme.Nexora"" parent=""android:Theme.Material.NoActionBar"">
+        <item name=""android:colorPrimary"">#7C4DFF</item>
+        <item name=""android:colorPrimaryDark"">#6200EA</item>
+        <item name=""android:colorAccent"">#00E5FF</item>
+        <item name=""android:windowBackground"">#0D0D0D</item>
+        <item name=""android:statusBarColor"">#0D0D0D</item>
+        <item name=""android:navigationBarColor"">#0D0D0D</item>
+        <item name=""android:windowLightStatusBar"">false</item>
+        <item name=""android:windowLightNavigationBar"">false</item>
+    </style>
+</resources>

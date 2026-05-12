@@ -1,0 +1,53 @@
+﻿<?xml version=""1.0"" encoding=""utf-8""?>
+<resources>
+    <!-- Primary Colors - Neon Purple -->
+    <color name=""primary"">#7C4DFF</color>
+    <color name=""primary_variant"">#6200EA</color>
+    <color name=""primary_dark"">#4A148C</color>
+    
+    <!-- Secondary Colors - Neon Cyan -->
+    <color name=""secondary"">#00E5FF</color>
+    <color name=""secondary_variant"">#00B8D4</color>
+    
+    <!-- Accent Colors -->
+    <color name=""accent_pink"">#FF4081</color>
+    <color name=""accent_green"">#00E676</color>
+    <color name=""accent_orange"">#FF6D00</color>
+    <color name=""accent_yellow"">#FFD600</color>
+    
+    <!-- Background Colors -->
+    <color name=""background"">#0D0D0D</color>
+    <color name=""background_elevated"">#1A1A1A</color>
+    <color name=""background_card"">#242424</color>
+    <color name=""surface"">#1E1E1E</color>
+    <color name=""surface_variant"">#2D2D2D</color>
+    
+    <!-- Text Colors -->
+    <color name=""text_primary"">#FFFFFF</color>
+    <color name=""text_secondary"">#B3B3B3</color>
+    <color name=""text_tertiary"">#666666</color>
+    <color name=""text_disabled"">#404040</color>
+    
+    <!-- Status Colors -->
+    <color name=""online"">#00E676</color>
+    <color name=""offline"">#666666</color>
+    <color name=""busy"">#FF6D00</color>
+    <color name=""error"">#FF5252</color>
+    <color name=""warning"">#FFD600</color>
+    <color name=""success"">#00E676</color>
+    
+    <!-- UI Element Colors -->
+    <color name=""divider"">#2D2D2D</color>
+    <color name=""ripple"">#337C4DFF</color>
+    <color name=""overlay"">#80000000</color>
+    <color name=""shimmer"">#333333</color>
+    
+    <!-- Glassmorphism Colors -->
+    <color name=""glass_background"">#1A7C4DFF</color>
+    <color name=""glass_border"">#337C4DFF</color>
+    
+    <!-- Chat Colors -->
+    <color name=""message_sent"">#7C4DFF</color>
+    <color name=""message_received"">#2D2D2D</color>
+    <color name=""message_bg"">#1E1E1E</color>
+</resources>
